@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Screenshot
 
-![](/screenshot/desktop.png)
-![](/screenshot/movil.png)
+![](./screenshot/desktop.png)
+![](./screenshot/movil.png)
 
 
 
@@ -108,7 +108,5 @@ I would like to continue delving into the use of javascript to make sites more d
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
+- Website - [YourSite](https://www.your-site.com)
 - Frontend Mentor - [@santi19999](https://www.frontendmentor.io/profile/santi19999)
-
-**Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
