@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot/desktop.png)
-![](./screenshot/movil.png)
+![](/screenshot/desktop.jpg)
+![](/screenshot/movil.jpg)
 
 
 
